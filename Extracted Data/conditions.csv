@@ -1,0 +1,8 @@
+patient_id,diagnosis,clinical_status,date
+c588a992-d308-4916-aed5-3894f7e5f6e3,Prediabetes,active,1979-06-28
+c588a992-d308-4916-aed5-3894f7e5f6e3,Anemia (disorder),active,1979-06-28
+c588a992-d308-4916-aed5-3894f7e5f6e3,Miscarriage in first trimester,active,1991-09-19
+c588a992-d308-4916-aed5-3894f7e5f6e3,Streptococcal sore throat (disorder),resolved,2009-10-26
+c588a992-d308-4916-aed5-3894f7e5f6e3,Viral sinusitis (disorder),resolved,2014-09-14
+c588a992-d308-4916-aed5-3894f7e5f6e3,Viral sinusitis (disorder),resolved,2017-02-21
+c588a992-d308-4916-aed5-3894f7e5f6e3,Viral sinusitis (disorder),resolved,2018-05-16

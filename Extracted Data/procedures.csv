@@ -1,0 +1,4 @@
+patient_id,pro_id,pro_code,pro_start_date,pro_end_date
+c588a992-d308-4916-aed5-3894f7e5f6e3,e7846f81-5052-469d-975b-b86fd6d9e3a0,Medication Reconciliation (procedure),2014-06-05,2014-06-05
+c588a992-d308-4916-aed5-3894f7e5f6e3,46342a48-2079-40aa-a66b-1256532020ad,Throat culture (procedure),2009-10-26,2009-10-26
+c588a992-d308-4916-aed5-3894f7e5f6e3,9278abcc-b865-4f26-8175-11ecabe59561,Medication Reconciliation (procedure),2012-05-24,2012-05-24
