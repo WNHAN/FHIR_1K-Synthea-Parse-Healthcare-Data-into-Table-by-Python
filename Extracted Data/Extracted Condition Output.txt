@@ -1,0 +1,37 @@
+[
+  {
+    "id": "b15625d4-cd4a-4354-a30b-90b82c0413e4",
+    "code": "Prediabetes",
+    "clinical_status": "active"
+  },
+  {
+    "id": "047b6515-e2a9-4dd6-89cd-d5806086499d",
+    "code": "Anemia (disorder)",
+    "clinical_status": "active"
+  },
+  {
+    "id": "5a01743e-5ae6-470f-81a4-20b4e13ba043",
+    "code": "Miscarriage in first trimester",
+    "clinical_status": "active"
+  },
+  {
+    "id": "6de08ef6-b469-4251-a92c-467c942c5d42",
+    "code": "Streptococcal sore throat (disorder)",
+    "clinical_status": "resolved"
+  },
+  {
+    "id": "d856a292-84ad-44c9-b87b-d5f970698c79",
+    "code": "Viral sinusitis (disorder)",
+    "clinical_status": "resolved"
+  },
+  {
+    "id": "10cc3f59-727c-48b6-a382-29e67791095d",
+    "code": "Viral sinusitis (disorder)",
+    "clinical_status": "resolved"
+  },
+  {
+    "id": "704a3e6e-16f8-46b3-a3ef-edca8e298ce7",
+    "code": "Viral sinusitis (disorder)",
+    "clinical_status": "resolved"
+  }
+]
